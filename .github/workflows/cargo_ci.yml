@@ -1,7 +1,6 @@
 name: Cargo CI
 
 on:
-  push:
   pull_request:
 
 env:
